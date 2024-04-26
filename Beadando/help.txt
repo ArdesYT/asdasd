@@ -1,0 +1,4 @@
+Telefonkönyv listázása (1. opció): Ezzel a lehetőséggel a teljes telefonkönyvet ki lehet listázni.
+Új adat bevitele (2. opció): Itt lehet új nevet, telefonszámot és e-mail címet hozzáadni a telefonkönyvhöz. Ha a bevitt név már szerepel a telefonkönyvben, akkor a program ezt jelezni fogja.
+Keresés név szerint (3. opció): Ezzel a lehetőséggel lehet keresni egy adott név alapján a telefonkönyvben. Ha található ilyen név, a program ki fogja listázni a nevet, telefonszámot és e-mail címet. Ha nincs ilyen név a telefonkönyvben, akkor a program ezt jelezni fogja.
+Kilépés (4. opció): Választva a program befejezi a működést.
